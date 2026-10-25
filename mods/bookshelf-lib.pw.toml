@@ -1,0 +1,13 @@
+name = "Bookshelf"
+filename = "Bookshelf-fabric-MC26.3-26.3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/gXFicDKO/Bookshelf-fabric-MC26.3-26.3.0.4.jar"
+hash-format = "sha512"
+hash = "fc310ef717dea5320461e7832995fa1a0744dcc6621a133fd44a318a4a8e4b19928f2ae8ec7c5daa2cbc454af81b6879d3cdc1247a6b045c765b560682055f6c"
+
+[update]
+[update.modrinth]
+mod-id = "uy4Cnpcm"
+version = "gXFicDKO"

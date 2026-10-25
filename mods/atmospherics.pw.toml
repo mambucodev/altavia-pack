@@ -1,0 +1,13 @@
+name = "ATMOSPHERICS"
+filename = "atmospherics-2.6.8-mc-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ft2cYBpB/versions/nptxMreF/atmospherics-2.6.8-mc-26.3.jar"
+hash-format = "sha512"
+hash = "47292925b133e35d4a58d79dfcc2c15f237bb462ded9f6e97f8a7d613e008b1b31b1824f72ef07cb5810a2fb606b6203a9ec4c688848b8d13d98507755532337"
+
+[update]
+[update.modrinth]
+mod-id = "ft2cYBpB"
+version = "nptxMreF"

@@ -1,0 +1,13 @@
+name = "First Steps"
+filename = "first-steps-26x-2.30.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/98tY8ITu/versions/EfkdaaQ6/first-steps-26x-2.30.jar"
+hash-format = "sha512"
+hash = "943918392d6e1d9eeca5bf1b9fd8fc0711e3514b475d3745778449b866d71197543323726a42817dba896d2264ea1375c49bc900f37f74f60d03595255c0e67b"
+
+[update]
+[update.modrinth]
+mod-id = "98tY8ITu"
+version = "EfkdaaQ6"

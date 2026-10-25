@@ -1,0 +1,13 @@
+name = "BetterEnd"
+filename = "better-end-26.301.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/JluK0e1A/better-end-26.301.1.jar"
+hash-format = "sha512"
+hash = "58dc4ed2f31b4f9c9626bda5ef1add4c8484495cfc7bdf600ab08e5b4b292fe749cda0910bd10e078d439212219c38a64bc0f70f931dde51b7d5351456074737"
+
+[update]
+[update.modrinth]
+mod-id = "gc8OEnCC"
+version = "JluK0e1A"

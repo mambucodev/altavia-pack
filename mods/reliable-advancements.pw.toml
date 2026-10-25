@@ -1,0 +1,13 @@
+name = "Reliable Advancements"
+filename = "reliable_advancements-6.3.1+26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xVwaUG1g/versions/lrSelRxS/reliable_advancements-6.3.1%2B26.3-fabric.jar"
+hash-format = "sha512"
+hash = "4540c94c94fdca7ec5b4c9d2cf6e8260700825471c89787a3e4309ff4870bcb86f695c8f0802b9cd024471521c08c72650c094f831b7066802ddeedf71488530"
+
+[update]
+[update.modrinth]
+mod-id = "xVwaUG1g"
+version = "lrSelRxS"

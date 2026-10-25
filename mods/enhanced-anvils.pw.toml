@@ -1,0 +1,13 @@
+name = "Enhanced Anvils"
+filename = "EnhancedAnvils-fabric-26.3-0.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OzW9ppLC/versions/8BAWXH78/EnhancedAnvils-fabric-26.3-0.7.2.jar"
+hash-format = "sha512"
+hash = "83294f06890a0b9058938aa0896fa9821d13451bda739471ce4d3142c98be17a75c14c5dc4991caa612b2c852bd7a6dced92aaa40407771087cadba50fbad532"
+
+[update]
+[update.modrinth]
+mod-id = "OzW9ppLC"
+version = "8BAWXH78"

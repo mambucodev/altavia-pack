@@ -1,0 +1,13 @@
+name = "Antique Trading Ship"
+filename = "antiquetradingship-1.0.0 Fabric 26.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/luvBs7J4/versions/ZoSIvA4b/antiquetradingship-1.0.0%20Fabric%2026.3.jar"
+hash-format = "sha512"
+hash = "9958138c45fa065e827890de087f3b3e7c0106c9d69fc5cf2e35de840919c1c46d1a949a18edf1864364aec6373e89529c71dfa721891cff9abb5e7fbaaafaea"
+
+[update]
+[update.modrinth]
+mod-id = "luvBs7J4"
+version = "ZoSIvA4b"

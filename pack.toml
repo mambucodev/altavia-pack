@@ -1,0 +1,13 @@
+name = "Crestfall 2.0"
+author = "Crestfall team"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f674ed98f31a0d240a556a37c2114351a6330e3d748154f3d630c69d4e763a0a"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"

@@ -1,0 +1,13 @@
+name = "Healing Campfire"
+filename = "healingcampfire-26.3.0-6.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kOuPUitF/versions/qBFCuA7w/healingcampfire-26.3.0-6.3.jar"
+hash-format = "sha512"
+hash = "bd086c9f139f0ecffbf23990b9dc0ce54ceb0aca3282dc9063e036f4173f3c878af6173875c7f885953108dbb65c63ee7728e4864355a908d6343e76e288eb89"
+
+[update]
+[update.modrinth]
+mod-id = "kOuPUitF"
+version = "qBFCuA7w"

@@ -1,0 +1,13 @@
+name = "Runelic"
+filename = "Runelic-fabric-MC26.3-26.3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P4Xi5huA/versions/95HQyd9x/Runelic-fabric-MC26.3-26.3.0.1.jar"
+hash-format = "sha512"
+hash = "f65a80c41388730dc605974a1dfcb0c7a74f38458b36cf3d1e54bcdef2146ec8639ab83144b5fdf2d5b640799e4439b2692e0f4ed97538043c75218a378bd6bb"
+
+[update]
+[update.modrinth]
+mod-id = "P4Xi5huA"
+version = "95HQyd9x"

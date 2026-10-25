@@ -1,0 +1,13 @@
+name = "Beautify: Refabricated"
+filename = "beautify-3.5.5-fabric+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/PsBWmTqK/beautify-3.5.5-fabric%2B26.3.jar"
+hash-format = "sha512"
+hash = "2445c406cc1906d7338371d01c896449871e7d82b39d10054f1afaa51554b22dc1c66e09e8e1f7c93fa88f4e97d76a275559d5f6c9d86f05d080a276128a3e56"
+
+[update]
+[update.modrinth]
+mod-id = "DhSSvaxs"
+version = "PsBWmTqK"

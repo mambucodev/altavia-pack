@@ -1,0 +1,13 @@
+name = "Essentials Fabric"
+filename = "essentials-3.3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7eeiWWdG/versions/ygfDkKGO/essentials-3.3.0.jar"
+hash-format = "sha512"
+hash = "bcaa85cea60088adb663637c4330367a74679f40dec5f61feca5aaf3d49103d23f3bb85aa70a4a5e7312acd09ce768a68d6805da0a319bbe889145e7a8d132dc"
+
+[update]
+[update.modrinth]
+mod-id = "7eeiWWdG"
+version = "ygfDkKGO"

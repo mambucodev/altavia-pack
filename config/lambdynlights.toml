@@ -1,0 +1,399 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+# The chunk rebuild scheduler mode (immediate, culling).
+chunk_rebuild_scheduler = "culling"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enables dynamic lighting of beacon or end gateway beams.
+	beam = true
+	# Enables dynamic lighting of firefly particles from Firefly Bushes.
+	firefly = true
+	# Enables dynamic lighting for entities that have the Glowing effect.
+	glowing_effect = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enables dynamic lighting of the Warden's sonic boom attack particles.
+	sonic_boom = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "off"
+	# Enables dynamic lighting of Guardian's lasers. This also can be toggled off by disabling Guardian dynamic lighting.
+	guardian_laser = true
+
+			[light_sources.settings.entities.minecraft]
+				pale_oak_boat = true
+				zombie_horse = true
+				axolotl = true
+				egg = true
+				zoglin = true
+				spawner_minecart = true
+				allay = true
+				jungle_chest_boat = true
+				llama = true
+				mule = true
+				bat = true
+				husk = true
+				camel = true
+				experience_bottle = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				giant = true
+				happy_ghast = true
+				drowned = true
+				creaking = true
+				item = true
+				oak_chest_boat = true
+				goat = true
+				horse = true
+				vindicator = true
+				birch_boat = true
+				minecart = true
+				spectral_arrow = true
+				llama_spit = true
+				mooshroom = true
+				oak_boat = true
+				glow_item_frame = false
+				tnt = true
+				snowball = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				tadpole = true
+				ravager = true
+				evoker_fangs = true
+				chest_minecart = true
+				tropical_fish = true
+				slime = true
+				parched = true
+				pillager = true
+				dark_oak_chest_boat = true
+				area_effect_cloud = true
+				cushion = true
+				blaze = true
+				piglin = true
+				end_crystal = true
+				endermite = true
+				zombie = true
+				ender_pearl = true
+				item_display = true
+				breeze_wind_charge = true
+				guardian = true
+				fireball = true
+				illusioner = true
+				eye_of_ender = true
+				wither_skull = true
+				wolf = true
+				zombie_nautilus = true
+				zombie_villager = true
+				block_display = true
+				tnt_minecart = true
+				elder_guardian = true
+				cherry_chest_boat = true
+				acacia_chest_boat = true
+				small_fireball = true
+				strider = true
+				cave_spider = true
+				witch = true
+				cod = true
+				snow_golem = true
+				spider = true
+				command_block_minecart = true
+				panda = true
+				bee = true
+				arrow = true
+				mannequin = true
+				lingering_potion = true
+				cow = true
+				birch_chest_boat = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				spruce_boat = true
+				frog = true
+				hoglin = true
+				armadillo = true
+				splash_potion = true
+				armor_stand = true
+				experience_orb = true
+				poplar_chest_boat = true
+				dolphin = true
+				stray = true
+				jungle_boat = true
+				shulker = true
+				turtle = true
+				salmon = true
+				vex = true
+				wandering_trader = true
+				wither_skeleton = true
+				piglin_brute = true
+				breeze = true
+				nautilus = true
+				ocelot = true
+				acacia_boat = true
+				furnace_minecart = true
+				pale_oak_chest_boat = true
+				mangrove_boat = true
+				item_frame = true
+				phantom = true
+				ender_dragon = true
+				leash_knot = true
+				sulfur_cube = true
+				evoker = true
+				marker = true
+				glow_squid = true
+				warden = true
+				shulker_bullet = true
+				squid = true
+				enderman = true
+				dragon_fireball = true
+				copper_golem = true
+				chicken = true
+				sniffer = true
+				dark_oak_boat = true
+				trader_llama = true
+				donkey = true
+				bamboo_chest_raft = true
+				bogged = true
+				bamboo_raft = true
+				fox = true
+				camel_husk = true
+				mangrove_chest_boat = true
+				cherry_boat = true
+				iron_golem = true
+				zombified_piglin = true
+				cat = true
+				wind_charge = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				trident = true
+				villager = true
+				ominous_item_spawner = true
+				skeleton_horse = true
+				fishing_bobber = true
+				text_display = true
+				polar_bear = true
+				hopper_minecart = true
+				poplar_boat = true
+				falling_block = true
+				painting = true
+				interaction = true
+				wither = true
+				spruce_chest_boat = true
+
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
+			[light_sources.settings.entities.naturalist]
+				snail = true
+				rhino = true
+				catfish = true
+				boar = true
+				anglerfish = true
+				whale = true
+				duck = true
+				bird = true
+				bear = true
+				black_bear = true
+				firefly = true
+				hippo = true
+				rat = true
+				piranha = true
+				blobfish = true
+				mole = true
+				ray = true
+				tiger = true
+				lion = true
+				mammoth = true
+				hedgehog = true
+				giraffe = true
+				turkey = true
+				elephant = true
+				deer = true
+				dirt_trail = true
+				alligator = true
+				jellyfish = true
+				ostrich = true
+				snake = true
+				caterpillar = true
+				dragonfly = true
+				duck_egg = true
+				tortoise = true
+				capybara = true
+				butterfly = true
+				carried_food = true
+				starfish = true
+				lizard = true
+				zebra = true
+				jungle_scorpion = true
+				ant = true
+				komodo_dragon = true
+				giant_isopod = true
+				vulture = true
+				bass = true
+				desert_scorpion = true
+				great_white_shark = true
+				clam = true
+				lizard_tail = true
+				crab = true
+
+			[light_sources.settings.entities.camerapture]
+				picture_frame = true
+
+			[light_sources.settings.entities.betternether]
+				gloomwood_boat = true
+				wart_chest_boat = true
+				nether_reed_raft = true
+				mushroom_fir_boat = true
+				crimson_boat = true
+				nether_sakura_boat = true
+				naga_projectile = true
+				wart_boat = true
+				flying_pig = true
+				nether_reed_chest_raft = true
+				anchor_tree_chest_boat = true
+				rubeus_chest_boat = true
+				crimson_chest_boat = true
+				gloomwood_chest_boat = true
+				warped_boat = true
+				skull = true
+				nether_mushroom_chest_boat = true
+				mushroom_fir_chest_boat = true
+				firefly = true
+				stalagnate_boat = true
+				willow_chest_boat = true
+				warped_chest_boat = true
+				rubeus_boat = true
+				stalagnate_chest_boat = true
+				nether_mushroom_boat = true
+				hydrogen_jellyfish = true
+				jungle_skeleton = true
+				nether_sakura_chest_boat = true
+				anchor_tree_boat = true
+				willow_boat = true
+				naga = true
+
+			[light_sources.settings.entities.bclib]
+				chair = true
+
+			[light_sources.settings.entities.biomesoplenty]
+				magic_boat = true
+				hellbark_chest_boat = true
+				umbran_chest_boat = true
+				mahogany_chest_boat = true
+				fir_chest_boat = true
+				dead_chest_boat = true
+				palm_chest_boat = true
+				magic_chest_boat = true
+				jacaranda_boat = true
+				pine_boat = true
+				hellbark_boat = true
+				mahogany_boat = true
+				redwood_chest_boat = true
+				palm_boat = true
+				origin_oak_boat = true
+				origin_oak_chest_boat = true
+				willow_chest_boat = true
+				pine_chest_boat = true
+				dead_boat = true
+				fir_boat = true
+				empyreal_boat = true
+				maple_boat = true
+				umbran_boat = true
+				empyreal_chest_boat = true
+				redwood_boat = true
+				jacaranda_chest_boat = true
+				maple_chest_boat = true
+				willow_boat = true
+
+			[light_sources.settings.entities.ecologics]
+				walnut_boat = true
+				azalea_boat = true
+				flowering_azalea_chest_boat = true
+				flowering_azalea_boat = true
+				coconut_boat = true
+				maple_boat = true
+				squirrel = true
+				coconut_chest_boat = true
+				walnut_chest_boat = true
+				azalea_chest_boat = true
+				maple_chest_boat = true
+				penguin = true
+				coconut_crab = true
+
+			[light_sources.settings.entities.betterend]
+				tenanea_boat = true
+				end_lotus_chest_raft = true
+				dragon_tree_boat = true
+				mossy_glowshroom_boat = true
+				umbrella_tree_boat = true
+				lacugrove_chest_boat = true
+				dragonfly = true
+				dragon_tree_chest_boat = true
+				umbrella_tree_chest_boat = true
+				end_lotus_raft = true
+				tenanea_chest_boat = true
+				helix_tree_boat = true
+				helix_tree_chest_boat = true
+				jellyshroom_boat = true
+				cubozoa = true
+				pythadendron_chest_boat = true
+				pythadendron_boat = true
+				jellyshroom_chest_boat = true
+				lacugrove_boat = true
+				end_fish = true
+				lucernia_chest_boat = true
+				mossy_glowshroom_chest_boat = true
+				shadow_walker = true
+				end_slime = true
+				lucernia_boat = true
+				silk_moth = true
+
+			[light_sources.settings.entities.shroomcraft]
+				orange_shroomwood_chest_boat = true
+				orange_shroomwood_boat = true
+				purple_shroomwood_chest_boat = true
+				shroomwood_chest_boat = true
+				mooshroom = true
+				blue_shroomwood_chest_boat = true
+				cluckshroom = true
+				purple_shroomwood_boat = true
+				shroomfin = true
+				blue_shroomwood_boat = true
+				shroomwood_boat = true
+
+			[light_sources.settings.entities.variantsandventures]
+				gelid = true
+				murk = true
+				verdant = true
+				thicket = true
+
+			[light_sources.settings.entities.tinyskeletons]
+				thrown_item = true
+				baby_stray = true
+				baby_wither_skeleton = true
+				baby_skeleton = true
+				baby_bogged = true
+				baby_parched = true
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false
+
+[adaptive_ticking]
+	# Reduces how often sources behind the camera get ticked.
+	background_sleep = true
+	# How far away (in chunks) until light sources get ticked less often.
+	slow = 5
+	# How far away (in chunks) until light sources get ticked even less often.
+	slower = 8
