@@ -6,7 +6,7 @@ hash = "a8646c7758f0b78f31a0cb5256dfd61fb1cbdde030b00eb542350815decf2c76"
 
 [[files]]
 file = "README.md"
-hash = "d83885ea8d786cafff8b5adceb6a55dd7419b2f11bd30c4c3caf812823500d5a"
+hash = "ac44e2249ec6543ec90e030157fb94a8c10b0317376115c4f9e15d27bff889f9"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -95,6 +95,10 @@ metafile = true
 file = "mods/almanac.pw.toml"
 hash = "c5a1f9697e5ddd8a8575f1c590d5164474a04720d0a99908c48435de58f09237"
 metafile = true
+
+[[files]]
+file = "mods/altavia-tweaks-0.3.0.jar"
+hash = "2192804ad299528e89d388ee26711111b74c3bbb4b09e2491e1e5f059e553d82"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -250,10 +254,6 @@ metafile = true
 file = "mods/creativecore.pw.toml"
 hash = "0b533fee46dfa69d7d557668ddd7be024eee8653b138c34847371d711bec7cd4"
 metafile = true
-
-[[files]]
-file = "mods/crestfall-tweaks-0.2.0.jar"
-hash = "4e119cbcfa0740c3ee7a6850892a50bddf4813f1d947a7be1566255d71b98835"
 
 [[files]]
 file = "mods/crops-love-rain.pw.toml"

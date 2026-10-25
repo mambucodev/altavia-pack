@@ -1,6 +1,6 @@
-# Crestfall 2.0 packwiz project (LOCAL, pre-publication)
+# Altavia packwiz project (LOCAL, pre-publication)
 
-Pack name "Crestfall 2.0" is temporary. Status: local only. Nothing is hosted or published, and nothing on the live server or
+Pack name "Altavia" is temporary. Status: local only. Nothing is hosted or published, and nothing on the live server or
 any client was changed. Hosting (a GitHub repo serving `pack.toml`) is PENDING THE OWNER'S OK.
 
 ## Layout
