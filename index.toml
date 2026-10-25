@@ -252,6 +252,10 @@ hash = "0b533fee46dfa69d7d557668ddd7be024eee8653b138c34847371d711bec7cd4"
 metafile = true
 
 [[files]]
+file = "mods/crestfall-tweaks-0.2.0.jar"
+hash = "4e119cbcfa0740c3ee7a6850892a50bddf4813f1d947a7be1566255d71b98835"
+
+[[files]]
 file = "mods/crops-love-rain.pw.toml"
 hash = "4276514e7728b59dd598c137609657285768ab383db0526472210f5bb600f80e"
 metafile = true
@@ -915,7 +919,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "7ac50a41949c05df550b62d54051bc171491644eef010aa19bd8abe3419909b1"
 metafile = true
-
-[[files]]
-file = "resourcepacks/crestfall-tweaks-0.1.0.zip"
-hash = "aded410e3672d3f3be00a381782f20c6adacc40bd1248732e17f934d18804c0c"
