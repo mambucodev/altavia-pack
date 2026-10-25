@@ -6,7 +6,7 @@ hash = "a8646c7758f0b78f31a0cb5256dfd61fb1cbdde030b00eb542350815decf2c76"
 
 [[files]]
 file = "README.md"
-hash = "ac44e2249ec6543ec90e030157fb94a8c10b0317376115c4f9e15d27bff889f9"
+hash = "6d4b27ba2e2f6bd461e63c60c306952f8604ffc0670eaba180854103f00b9972"
 
 [[files]]
 file = "config/DistantHorizons.toml"

@@ -1,12 +1,12 @@
 name = "Altavia"
-author = "Crestfall team"
+author = "Altavia team"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ea5130efbccdcb6dae1f84b1460507c99ee073b309b1c4be3d8b6536cb7a969e"
+hash = "9a3e7960a0abcfa3b4783545e8d9b3ba6a0dfa336b07d1b5a19bf7c20ad231ad"
 
 [versions]
 fabric = "0.19.5"

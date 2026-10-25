@@ -23,7 +23,7 @@ server = unsupported/required (client launchers skip server-only mods). Change a
 - Add: `packwiz modrinth add <slug-or-url>` (or `--project-id X --version-id Y`); then `packwiz refresh`. Set `side` by hand if needed.
 - Update one / all: `packwiz update <name>` / `packwiz update --all`; pin with `packwiz pin <name>`.
 - Remove: `packwiz remove <name>` (or delete the toml) then `packwiz refresh`.
-- Export client pack: `packwiz modrinth export -o dist/Crestfall-<ver>.mrpack`. Bump `version` in `pack.toml` for each release.
+- Export client pack: `packwiz modrinth export -o dist/Altavia-<ver>.mrpack`. Bump `version` in `pack.toml` for each release.
 - Config defaults: edit files under `config/`, `packwiz refresh`; they ship as `overrides/` in the .mrpack and overwrite on update (decide on
   `preserve = true` in `index.toml` for files players should keep; not configured yet).
 
