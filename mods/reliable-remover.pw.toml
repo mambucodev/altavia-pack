@@ -1,13 +1,13 @@
 name = "Reliable Remover"
-filename = "reliable_remover-3.8.2+26.3-fabric.jar"
+filename = "reliable_remover-3.8.3+26.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pLxsKvNt/versions/7uYq9LaQ/reliable_remover-3.8.2%2B26.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/pLxsKvNt/versions/QjA4L66v/reliable_remover-3.8.3%2B26.3-fabric.jar"
 hash-format = "sha512"
-hash = "8ce867324200c01e2468e63f3ce262940e14049b68e959fa71457412dc51b012c536fda25dec14d5c0f249e3d023167d7c2b3fa22ef2a2470ef23a00a98fef98"
+hash = "3a7fe841239b39aa3e95b5cfcad99ceb1749ba662af5d173d53b74919e6bfc8d334d98559d85c6acc4d677b72a5621b9e75195b6886e5a7db584fd2e2dbb7562"
 
 [update]
 [update.modrinth]
 mod-id = "pLxsKvNt"
-version = "7uYq9LaQ"
+version = "QjA4L66v"
